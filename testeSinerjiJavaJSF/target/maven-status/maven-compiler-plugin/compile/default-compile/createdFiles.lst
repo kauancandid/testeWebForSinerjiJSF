@@ -1,0 +1,6 @@
+br\com\senacrs\TO\Address.class
+br\com\senacrs\DAO\PersonDAO.class
+br\com\senacrs\TO\Person.class
+br\com\senacrs\DAO\ConnectionFactory.class
+br\com\senacrs\DAO\AddressDAO.class
+br\com\senacrs\DAO\SalvarDadosServelet.class
